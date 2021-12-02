@@ -1,0 +1,11 @@
+3_Implementation/src/header3.c:19:21: style: Condition 'ADC_val>=210' is always true [knownConditionTrueFalse]
+    else if((ADC_val>=210) && (ADC_val<=509)){
+                    ^
+3_Implementation/src/header3.c:13:12: note: Assuming that condition 'ADC_val<=209' is not redundant
+{if(ADC_val<=209){
+           ^
+3_Implementation/src/header3.c:19:21: note: Condition 'ADC_val>=210' is always true
+    else if((ADC_val>=210) && (ADC_val<=509)){
+                    ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
