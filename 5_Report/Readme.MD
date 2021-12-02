@@ -1,63 +1,61 @@
-# **Requirements**
+# Requirements
 
-# **Introduction:**
-
+## Introduction
 A temperature sensor is a device, typically, a thermocouple or resistance temperature detector, that provide temperature measurement in a readable form through an electrical signal. They are used to measure the temperature rise during the process of curing concrete. Temperature meters are used in the geotechnical field to monitor concrete, structures, soil, water, bridges etc. for structural changes in them due to seasonal variations. A temperature sensor is a device that is designed to measure the degree of hotness or coolness in an object. The working of a temperature meter depends upon the voltage across the diode. The temperature change is directly proportional to the diode&#39;s resistance. The cooler the temperature, lesser will be the resistance, and vice-versa.
 
-# **Research**
-
+## Research
 There are many types of temperature sensors, but, the most common way to categorise them is based upon the mode of connection which includes, contact and non-contact temperature sensors.
 
-# **Feature and Timeline**
+## Feature and Timeline
 
-- The system is fast, user friendly.
-- The system is more accurate and clear, it is very unique.
+-   The system is fast, user friendly.
+-   The system is more accurate and clear, it is very unique.
 
-# **SWOT ANALYSIS**
+## SWOT ANALYSIS
 
-**Strength**
+### Strength
 
-- It Surpass Security protection, convenience and speed.
-- It is a unique identification tool.
-- Provide stable output.
+-   It Surpass Security protection, convenience and speed.
+-   It is a unique identification tool.
+-   Provide stable output.
 
-**Weakness**
+### Weakness
 
-- Less stability
+-   Less stability
 
-**Opportunity**
+### Opportunity
 
-- Sense Temperature.
+-   Sense Temperature.
 
-**Threats**
+### Threats
 
-- Less rugged in a high vibration environment
+-   Less rugged in a high vibration environment
 
-# **4W and 1H**
+## 4W and 1H
 
-**Who**
+### Who
 
-- Mall owners, Industry workers.
+-   Mall owners, Industry workers.
 
-**What**
+### What
 
-- Temperature sensor.
+-   Temperature sensor.
 
-**When**
+### When
 
-- To monitor the temperature of the environment and save from fire and heat.
+-   To monitor the temperature of the environment and save from fire and heat.
 
-**Where**
+### Where
 
-- Houses, Industry, freezers.
+-   Houses, Industry, freezers.
 
-**How**
+### How
 
-- When the temperature increases the sensor gives alert to the owner or the system for cooling purpose.
+-   When the temperature increases the sensor gives alert to the owner or the system for cooling purpose.
 
-# **Details Requirements**
+## Details Requirements
 
-**High Level Requirements:**
+### High Level Requirements
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
@@ -66,7 +64,7 @@ There are many types of temperature sensors, but, the most common way to categor
 | HLR3 | User shall be able to sense and give signal to the system | Implemented |
 | HLR4 | User shall be able to control the temperature of the system | Implemented |
 
-**Low Level Requirements:**
+### Low Level Requirements
 
 | **ID** | **Description** | **Status** |
 | --- | --- | --- |
